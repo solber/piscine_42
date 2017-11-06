@@ -1,0 +1,8 @@
+Credentials cache: API:17BAF299-5F6F-4B0F-A09A-50FE4D643034
+        Principal: wnoth@42.FR
+
+  Issued                Expires               Principal
+Jul 31 13:59:37 2017  Aug  7 13:59:37 2017  krbtgt/42.FR@42.FR
+Jul 31 13:59:39 2017  Aug  7 13:59:37 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 13:59:39 2017  Aug  7 13:59:37 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul 31 14:03:04 2017  Aug  7 13:59:37 2017  host/vgs-fn1.42.fr@42.FR
